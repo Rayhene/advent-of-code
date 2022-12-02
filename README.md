@@ -1,1 +1,3 @@
-# AOC-Advent-of-Code-Solutions
+# Advent of Code🎄
+My solutions for Advent of Code 2022     
+https://adventofcode.com/  
